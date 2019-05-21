@@ -26,3 +26,7 @@ cd
 * Imports to IDEA:
   * `file -> Import Settings -> select theme .jar file -> restart`
   * `file -> Settings -> Editor -> Color Scheme -> Color Scheme Font`
+
+### Boostrap
+
+* The bootstrap version `4.3.0` .zip file path: `./bootstrap-4.3.0-dist.zip`
